@@ -13,4 +13,4 @@ To build this lamp, I've used the following resources.
 
 #The Process
 
-![holding_log](https://github.com/sjyn/ILoveLamp/pics/tree_lamp)
+![holding_log](https://github.com/sjyn/ILoveLamp/pics/tree_lamp.jpg)
