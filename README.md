@@ -10,3 +10,7 @@ To build this lamp, I've used the following resources.
 * [I Don't Know a lot about Wires](http://electronics.stackexchange.com/questions/31675/what-gauge-of-single-strand-wire-works-well-with-breadboards)
 * [Guide on How to Use Nrf24L01 Chips](https://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo)
 * [RF24 Library for Use with Arduino IDE](https://github.com/tmrh20/RF24)
+
+#The Process
+
+![holding_log](https://github.com/sjyn/ILoveLamp/pics/tree_lamp)
